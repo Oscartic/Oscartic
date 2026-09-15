@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Engineer · React · Node.js · NestJS · Ruby on Rails</h3>
 
 <p align="center">
-  📍 Santiago, Chile &nbsp;·&nbsp; 8+ years building products at scale &nbsp;·&nbsp; 🟢 Open to new opportunities
+  📍 Santiago, Chile &nbsp;·&nbsp; 5+ years building products at scale &nbsp;·&nbsp; 🟢 Open to new opportunities
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About me
 
-I'm a full stack engineer with **8+ years of experience**, including e-commerce platforms at **Mercado Libre** and **Falabella**, two of the largest tech companies in Latin America.
+I'm a full stack engineer with **5+ years of experience**, including e-commerce platforms at **Mercado Libre** and **Falabella**, two of the largest tech companies in Latin America.
 I work across the whole stack: fast, accessible interfaces in **React/TypeScript** and solid APIs in **Node.js, NestJS and Ruby on Rails**.
 
 - 🏗️ Interested in **frontend architecture**: micro-frontends, monorepos, design systems and web performance
@@ -62,13 +62,13 @@ Micro-frontends (Module Federation) · Turborepo/Nx · Core Web Vitals · Advanc
 <summary><b>🇨🇱 En español</b></summary>
 <br>
 
-Soy **Oscar Ballesteros**, ingeniero Full Stack Senior en Santiago de Chile, con **más de 8 años de experiencia**, incluyendo **Mercado Libre** y **Falabella**.
+Soy **Oscar Ballesteros**, ingeniero Full Stack Senior en Santiago de Chile, con **más de 5 años de experiencia**, incluyendo **Mercado Libre** y **Falabella**.
 Construyo interfaces rápidas y accesibles con **React/TypeScript** y APIs robustas con **Node.js, NestJS y Ruby on Rails**.
 
 - 🏗️ Me interesa la **arquitectura frontend**: micro-frontends, monorepos, design systems y performance web
 - ☁️ Actualmente estudiando **AWS** (Solutions Architect Associate)
 - 🤝 Abierto a oportunidades **Senior Full Stack / Frontend**, en Chile o remoto
 
-📫 Conversemos: [oscarballesteros.cl](https://oscarballesteros.cl)
+📫 Conversemos: [oscarballesteros.cl](https://oscarballesteros.c) 
 
 </details>
