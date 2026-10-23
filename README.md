@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://oscarballesteros.cl"><img src="https://img.shields.io/badge/Website-oscarballesteros.cl-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/oscarballesteros"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
