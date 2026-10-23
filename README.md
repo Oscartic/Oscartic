@@ -14,13 +14,8 @@
 
 ### 🧑‍💻 About me
 
-I'm a full stack engineer with **5+ years of experience**, including e-commerce platforms at **Mercado Libre** and **Falabella**, two of the largest tech companies in Latin America.
-I work across the whole stack: fast, accessible interfaces in **React/TypeScript** and solid APIs in **Node.js, NestJS and Ruby on Rails**.
-
-- 🏗️ Interested in **frontend architecture**: micro-frontends, monorepos, design systems and web performance
-- ☁️ Currently studying **AWS** (Solutions Architect Associate) and cloud infrastructure
-- 🎓 **MERN Stack** certification, MIT xPro
-- 🤝 Open to **Senior Full Stack / Frontend** roles, in Chile or remote
+Based in Santiago, Chile. Open to Frontend and Full-Stack opportunities in Chile or remotely.
+My public repositories include frontend challenges, backend projects and learning exercises. Explore the selected projects below for implementation details, setup instructions and technical decisions.
 
 ### 🛠️ Tech stack
 
@@ -44,17 +39,6 @@ I work across the whole stack: fast, accessible interfaces in **React/TypeScript
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 🚀 What I'm building
-
-- **LotoStack**: NestJS + React + PostgreSQL app that syncs Chilean lottery results and computes number-frequency statistics, with JWT auth and saved combinations.
-- **Hexagonal architecture with NestJS**: a Users API built with ports & adapters, to practice clean backend design.
-
-<!-- Add links once the repos are public, e.g. [LotoStack](https://github.com/Oscartic/lotostack) -->
-
-### 🌱 Currently learning
-
-Micro-frontends (Module Federation) · Turborepo/Nx · Core Web Vitals · Advanced TypeScript · AWS SAA-C03
 
 ---
 
